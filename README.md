@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey, I'm Pratik Bhadale 👋<br><br>### 💻 Backend Software Engineer | Java • Spring Boot • Distributed Systems<br><br>I build backend applications, explore system internals, and turn coffee-free ideas into working software. 🚀<br><br>- ☕ Coffee-free, but powered by curiosity.<br>- 🛠️ Building with Java, Spring Boot, TypeScript, and Node.js.<br>- ⚙️ Exploring distributed systems, databases, and system design.<br>- 🧠 I break things to understand how they work (and hopefully fix them).<br>- 🌱 Always learning, building, and occasionally debugging my own bugs.<br><br>**Fun fact:** My code works perfectly... until someone watches me run it. 👀
+# Hey, I'm Pratik Bhadale 👋<br><br> ### 💻 Backend Software Engineer | Java • Spring Boot • Distributed Systems<br><br>I build backend applications, explore system internals, and turn coffee-free ideas into working software. 🚀<br><br>- ☕ Coffee-free, but powered by curiosity.<br>- 🛠️ Building with Java, Spring Boot, TypeScript, and Node.js.<br>- ⚙️ Exploring distributed systems, databases, and system design.<br>- 🧠 I break things to understand how they work (and hopefully fix them).<br>- 🌱 Always learning, building, and occasionally debugging my own bugs.<br><br>**Fun fact:** My code works perfectly... until someone watches me run it. 👀
 
 
 ## 🌐 Socials:
